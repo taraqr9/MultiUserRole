@@ -1,12 +1,8 @@
-Use this command
-
-
-
-#=== Multiple Roles API ===
+# === Multiple Roles API ===
 
 Allow users to have multiple using `REST API with Sanctum`.
 
-##== Description ==
+## == Description ==
 
 This plugin allows you to give multiple roles for a user -.
 `Admin`
