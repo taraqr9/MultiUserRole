@@ -33,7 +33,10 @@ php artisan db:seed
 ```
 Then test it with postman api tester.
 
-
+## Tech Stack
+* Laravel 
+* Laratrust ( User Role)
+* Sanctum ( Login token)
 
 
 
