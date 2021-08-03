@@ -1,6 +1,6 @@
 # === Multiple Roles API ===
 
-Allow users to have multiple using `REST API with Sanctum`.
+Allow users to have multiple role using `REST API with Sanctum`.
 
 ## == Description ==
 
@@ -31,6 +31,7 @@ composer update
 php artisan migrate
 php artisan db:seed
 ```
+Then test it with postman api tester.
 
 
 
