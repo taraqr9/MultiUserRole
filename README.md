@@ -10,18 +10,18 @@ This plugin allows you to give multiple roles for a user -.
 `User`
 
 Admin Role : 
-    1. Create Project
-    2. Single Project View
-    3. All Project List
-    4. Delete Project
+    * Create Project
+    * Single Project View
+    * All Project List
+    * Delete Project
     
 BlogWriter Role :
-    1. Create Project
-    2. Single Project View
-    3. All Project List
+    * Create Project
+    * Single Project View
+    * All Project List
     
 User Role :
-    1. All Project List
+    * All Project List
 
 == Installation ==
 ```bash
