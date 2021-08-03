@@ -4,7 +4,7 @@ Allow users to have multiple role using `REST API with Sanctum`.
 
 ## == Description ==
 
-This plugin allows you to give multiple roles for a user ->
+This allows you to give multiple roles for a user ->
 `Admin`
 `Blogwriter`
 `User`
