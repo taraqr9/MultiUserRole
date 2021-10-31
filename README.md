@@ -27,6 +27,7 @@ This allows you to give multiple roles for a user ->
 ```bash
 git clone https://github.com/taraqr9/MultiUserRole.git
 cd multiuserrole
+cp .env.example .env
 composer update
 php artisan migrate
 php artisan db:seed
