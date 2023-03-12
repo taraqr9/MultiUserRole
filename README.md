@@ -28,9 +28,8 @@ This allows you to give multiple roles for a user ->
 git clone https://github.com/taraqr9/MultiUserRole.git
 cd multiuserrole
 cp .env.example .env
-composer update
-php artisan migrate
-php artisan db:seed
+composer install
+php artisan migrate:refresh --seed
 ```
 Then test it with postman api tester.
 
